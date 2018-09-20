@@ -1,10 +1,13 @@
 _repo: Harck-Olufs-aus-der-Insul-Amron-im-Stifte-Ripen-in-Jutland-geburtig-sonderbare-Avanturen-so-s__52725
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Noodt, Hermann
     gutenberg_agent_id: '47020'
     url: http://www.gutenberg.org/2009/agents/47020
+covers:
+- cover_type: archival
+  image_path: 52725-h/images/cover-page.jpg
 creator:
   authors:
   - agent_name: Oluf, Hark
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '47018'
     url: http://www.gutenberg.org/2009/agents/47018
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52725#Harck-Olufs-aus-der-Insul-Amron-im-Stifte-Ripen-in-Jutland-geburtig-sonderbare-Avanturen-so-s_
 gutenberg_issued: '2016-08-05'
 gutenberg_type: Text
 identifiers:
